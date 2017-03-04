@@ -8,6 +8,6 @@
 h1 {
 	color: red;	
 }
-.navbar {
+@media (min-width: 768px) .navbar  {
 	border-radius: 0px;	
 }
