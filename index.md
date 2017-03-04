@@ -1,9 +1,4 @@
----
-sidebar:
-  nav: "docs"
-  
-share: true
----
+
 
 # Hello world
 
