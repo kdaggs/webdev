@@ -1,0 +1,4 @@
+```javascript
+	alert();
+var test;
+```
