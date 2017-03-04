@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ```javascript
 	alert();
 var test;
