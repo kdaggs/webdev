@@ -1,6 +1,5 @@
 
 gems:
   - jemoji
-  - font-awesome-less
 
 theme: jekyll-theme-cayman
