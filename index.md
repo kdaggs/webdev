@@ -23,5 +23,5 @@ h1 {
 
 <i class="fa fa cube"></i>
 123
-<i class="fa fa-id-card-o" aria-hidden="true"></i>
+<i class="fa fa-heart-o" aria-hidden="true"></i>
 <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
