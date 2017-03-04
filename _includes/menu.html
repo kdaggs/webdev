@@ -22,15 +22,8 @@
   </div>
 </nav>
 <script>
-  window.onload = function() {
-   if (window.jQuery) {  
-       // jQuery is loaded  
-       alert("Yeah!");
-   } else {
-    alert("nope!");
-   }
-}
+ 
   $( document ).on( 'click', '.navbar-nav li', function ( e ) {
-    $( this ).addClass( 'active' ).siblings().removeClass( 'active' );
+    $( this ).addClass( 'active' );
 } );
 </script>
