@@ -1,3 +1,8 @@
+---
+sidebar:
+  nav: "docs"
+---
+
 # Hello world
 
 ```javascript
@@ -15,5 +20,4 @@ h1 {
 	color: red;
 }
 ```
-sidebar:
-  nav: "docs"
+
