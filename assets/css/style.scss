@@ -47,21 +47,21 @@ table {
 	border-spacing: 0;
 }
 .navbar-default {
-  background-color: #416474;
-  border-color: #81b4b6;
+  background-color: #416474 !important;
+  border-color: #81b4b6 !important;
 }
 .navbar-default .navbar-brand {
-  color: #d3dadb;
+  color: #d3dadb !important;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 .navbar-default .navbar-text {
-  color: #d3dadb;
+  color: #d3dadb !important;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #d3dadb;
+  color: #d3dadb !important;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
