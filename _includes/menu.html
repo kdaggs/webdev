@@ -4,10 +4,10 @@
       <a class="navbar-brand" href="#">HTML5</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a data-toggle="tab" href="/webdev">Home</a></li>
-      <li><a data-toggle="tab" href="cal.html">Calendar</a></li>
-      <li><a data-toggle="tab" href="#">Syllabus</a></li>
-      <li><a data-toggle="tab" href="#">Blackboard</a></li>
+      <li class="active"><a href="/webdev">Home</a></li>
+      <li><a href="cal.html">Calendar</a></li>
+      <li><a href="#">Syllabus</a></li>
+      <li><a href="#">Blackboard</a></li>
       <li class="dropdown">
         <a class="dropdown-toggle" data-toggle="dropdown" href="#">Weekly Activities
         <span class="caret"></span></a>
@@ -21,3 +21,8 @@
     </ul>
   </div>
 </nav>
+<script>
+  $( document ).on( 'click', '.nav-list li', function ( e ) {
+    $( this ).addClass( 'active' ).siblings().removeClass( 'active' );
+} );
+</script>
