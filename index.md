@@ -1,8 +1,8 @@
-<head>
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+---
+layout: page
+title: About
+---
 
-</head>
-{% include sidebar-right.html %}
 # Hello world
 
 ```javascript
