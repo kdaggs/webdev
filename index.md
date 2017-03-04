@@ -15,3 +15,5 @@ h1 {
 	color: red;
 }
 ```
+sidebar:
+  nav: "docs"
